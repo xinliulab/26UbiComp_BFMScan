@@ -231,20 +231,6 @@ plotting scripts and result files. No raw packet processing or model training
 is needed. These figures redraw saved results, not independently rerun experiments;
 typography and layout can differ from the manuscript.
 
-| Paper figure | Content | Original numerical source |
-|---|---|---|
-| 8, 9 | Tracking error boxplot and CDF | `environments.npz`, mapping in `1_tracking_error_v2.py` |
-| 11 | Human-side accuracy by angle difference | `2_side_angle.py` |
-| 12, 13 | Four-interaction LoS and wall confusion matrices | `2_4types_confusion.py`, `2_4type_wall.py` |
-| 14, 15 | Respiration waveforms and cosine similarity | `3_waveform_res.py` |
-| 16 | Body blockage | `3_cs_block.py` |
-| 17 | Motion interference | `3_mae_inter.py` |
-| 18 | Multiuser respiration error | `3_MAE_res.py` |
-| 20 | Static angular error | `4_angle_error.py` |
-| 21 | CSI/BFM comparison | `4_csi.py` |
-
-No external folder is required at runtime.
-
 ## Measurement setup reference
 
 This section documents the existing capture workflow for researchers inspecting
