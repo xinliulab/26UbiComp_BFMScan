@@ -4,7 +4,7 @@ This repository accompanies **BFMScan: Enabling Explicit Angle-Resolved Sensing
 via Beamforming Feedback Matrix**. It contains sensing code, recorded
 measurements, and numerical plotting inputs for artifact evaluation.
 
-> **Patent pending:** U.S. Provisional Patent Application No. 63/944,170.
+> **Patent pending:** U.S. Provisional Patent Application No. 64/155,826.
 > Available for non-commercial academic research only; see [LICENSE](LICENSE).
 
 ## Project overview
@@ -269,9 +269,9 @@ measurements, while Evaluation 2 redraws saved experimental results.
 ## Patent
 
 BFMScan is **patent pending**: U.S. Provisional Patent Application
-No. 63/944,170, filed December 18, 2025, "Smartwatch-based passive multi-user
-respiration monitoring using Wi-Fi beamforming feedback." Applicant: The
-Florida State University Research Foundation, Inc.
+No. 64/155,826, filed September 16, 2026, "Systems and Methods for Explicit
+Angle-Resolved Wireless Sensing from Compressed Beamforming Feedback"
+(FSU reference 27-029PR).
 
 ## License
 
