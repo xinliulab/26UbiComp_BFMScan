@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite the BFMScan paper."
+title: "BFMScan Artifact"
+type: software
+license: MIT
+repository-code: "https://github.com/xinliulab/26UbiComp_BFMScan"
+authors:
+  - given-names: Bofan
+    family-names: Li
+  - given-names: Zhuoyuan
+    family-names: Liu
+  - given-names: Zhankai
+    family-names: Ye
+  - given-names: Weikuan
+    family-names: Yu
+  - given-names: Xin
+    family-names: Liu
+preferred-citation:
+  type: article
+  title: "BFMScan: Enabling Explicit Angle-Resolved Sensing via Beamforming Feedback Matrix"
+  authors:
+    - given-names: Bofan
+      family-names: Li
+    - given-names: Zhuoyuan
+      family-names: Liu
+    - given-names: Zhankai
+      family-names: Ye
+    - given-names: Weikuan
+      family-names: Yu
+    - given-names: Xin
+      family-names: Liu
+  journal: "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
+  volume: 10
+  issue: 3
+  year: 2026
+  doi: 10.1145/3832009

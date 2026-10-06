@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+tmp/
+reproduced_data/
+results/
+reference_results/
+*.asv
+*.m~
+Thumbs.db
+.DS_Store
+
+# Auxiliary captures not used by the bundled reproduction workflows.
+/experiment/wireshark_data/8_7/bfm8_7_45.csv
+/experiment/wireshark_data/8_7/bfm8_7_two.csv
+/experiment/wireshark_data/8_7/bm8_7_+-45_0_two.txt
+/experiment/wireshark_data/8_7/bm8_7_90_45.txt
