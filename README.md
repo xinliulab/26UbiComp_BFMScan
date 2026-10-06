@@ -4,6 +4,9 @@ This repository accompanies **BFMScan: Enabling Explicit Angle-Resolved Sensing
 via Beamforming Feedback Matrix**. It contains sensing code, recorded
 measurements, and numerical plotting inputs for artifact evaluation.
 
+> **Patent pending:** U.S. Provisional Patent Application No. 63/944,170.
+> Available for non-commercial academic research only; see [LICENSE](LICENSE).
+
 ## Project overview
 
 BFMScan reconstructs angle-resolved spatial spectra from Wi-Fi beamforming
@@ -44,7 +47,7 @@ BFMScan/
 |-- scripts/validate_artifact.py    # Raw-to-MAT integrity checks
 |-- requirements.txt               # Python dependencies
 |-- CITATION.cff                   # Machine-readable citation
-|-- LICENSE                        # MIT license
+|-- LICENSE                        # Non-commercial research license; patent pending
 `-- results/                       # Generated outputs; excluded from Git
 ```
 
@@ -263,10 +266,20 @@ pipeline and reconstruction of the included paper plots. They provide
 different evidence: Evaluation 1 recomputes demonstration outputs from
 measurements, while Evaluation 2 redraws saved experimental results.
 
+## Patent
+
+BFMScan is **patent pending**: U.S. Provisional Patent Application
+No. 63/944,170, filed December 18, 2025, "Smartwatch-based passive multi-user
+respiration monitoring using Wi-Fi beamforming feedback." Applicant: The
+Florida State University Research Foundation, Inc.
+
 ## License
 
-The code and accompanying documentation are distributed under the
-[MIT License](LICENSE), retaining the repository's original copyright notice.
+The code, data, and documentation are available for **non-commercial academic
+research, teaching, and artifact evaluation only**. See [LICENSE](LICENSE) for
+the full terms. This repository grants no patent rights. For commercial
+licensing, contact the Florida State University Office of Commercialization at
+commercialization@fsu.edu.
 
 ## Citation
 
