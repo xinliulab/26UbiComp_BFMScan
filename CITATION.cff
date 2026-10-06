@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this artifact, please cite the BFMScan paper."
 title: "BFMScan Artifact"
 type: software
-repository-code: "https://github.com/xinliulab/26UbiComp_BFMScan"
+repository-code: "https://github.com/xlstacklab/26UbiComp_BFMScan"
 authors:
   - given-names: Bofan
     family-names: Li
